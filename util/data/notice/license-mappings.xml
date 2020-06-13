@@ -35,4 +35,9 @@
 	   <artifactId>jcip-annotations</artifactId>
 		<license>Public</license>
     </artifact>
+	<artifact>
+	   <groupId>com.github.spotbugs</groupId>
+	   <artifactId>SpotBugs</artifactId>
+		<license>GNU LESSER GENERAL PUBLIC LICENSE, Version 2.1</license>
+    </artifact>
 </license-lookup>
