@@ -37,7 +37,7 @@
     </artifact>
 	<artifact>
 	   <groupId>com.github.spotbugs</groupId>
-	   <artifactId>SpotBugs</artifactId>
+	   <artifactId>spotbugs</artifactId>
 		<license>GNU LESSER GENERAL PUBLIC LICENSE, Version 2.1</license>
     </artifact>
 </license-lookup>
